@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Duolingo Login</string>
+    <string name="titulo_1">Welcome to</string>
+    <string name="titulo_2">duolingo</string>
+    <string name="subtitulo">The free, fun, and effective way to learn a language!</string>
+    <string name="login">Login</string>
+    <string name="started">Get Started</string>
+    <string name="duolingo">Duolingo</string>
+    <string name="sub_login">What you sow today, you will reap tomorrow.</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="password"><u>Forgot password?</u></string>
+    <string name="account"><u>I need create account</u></string>
+    <string name="logo">Logo</string>
+    <string name="pas">**********</string>
+    <string name="Logo2">Logo</string>
+    <string name="example_email">Example@email.com</string>
+
+</resources>
